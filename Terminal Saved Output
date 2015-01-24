@@ -1,0 +1,48 @@
+Last login: Sat Jan 24 10:51:46 on ttys000
+Radeks-MacBook-Air-3:~ radekrybicki$ cd Box\ Sync/R
+Radeks-MacBook-Air-3:R radekrybicki$ cd ProgrammingAssignment2/
+Radeks-MacBook-Air-3:ProgrammingAssignment2 radekrybicki$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   cachematrix.R
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   cachematrix.R
+
+Radeks-MacBook-Air-3:ProgrammingAssignment2 radekrybicki$ git add cachematrix.R
+Radeks-MacBook-Air-3:ProgrammingAssignment2 radekrybicki$ git commit
+
+
+
+
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#       modified:   cachematrix.R
+#
+# Changes not staged for commit:
+#       modified:   cachematrix.R
+#
+# Changes uploaded by RRybicki
+
+
+
+
+
+
+
+
+
+-uu-:**-F1  COMMIT_EDITMSG   All L14    (Fundamental)---------------------------
+Auto-saving...done
